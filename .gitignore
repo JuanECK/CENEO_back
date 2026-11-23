@@ -1,0 +1,8 @@
+.env
+uploads
+node_modules/
+dist/
+build/
+logs/
+uploads_pdf/*
+!uploads_pdf/.gitkeep
