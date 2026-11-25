@@ -2,7 +2,9 @@ import express, { Request, Response } from 'express';
 import cors from 'cors';
 import morgan from 'morgan'
 import { logger } from './config/logger';
-import routes from './routes/api.routes'
+import routes from './routes/api.routes';
+import cookieParser from 'cookie-parser';
+import { env } from './config/env'
 
 const app = express();
 const PORT = 3000;
@@ -32,6 +34,9 @@ allowedHeaders: ['Content-Type', 'Authorization', 'x-signature'],
 //Limita de forma estricta el tamaño máximo que Express aceptará en los bodies.
 app.use(express.json({ limit: '10kb' }));
 
+const COOKIE_SECRET = env.COOKIE_SECRET;
+app.use(cookieParser(COOKIE_SECRET));
+
 // Integración de Morgan con Winston
 const morganMiddleware = morgan(
   ':method :url :status :res[content-length] - :response-time ms',
@@ -42,11 +47,3 @@ app.use(morganMiddleware);
 app.use('/api', routes)
 
 export default app;
-
-// app.get('/', (req: Request, res: Response) => {
-//   res.send('Servidor Express con TypeScript funcionando');
-// });
-
-// app.listen(PORT, () => {
-//   console.log(`Servidor corriendo en http://localhost:${PORT}`);
-// });

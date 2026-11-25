@@ -1,27 +1,32 @@
 import { Request, Response } from 'express';
 import { logger } from '../config/logger';
+import { AuthService } from '../services/auth.service';
+import { getSecureCookieOptions } from '../config/configSecureCookie';
+
+const authService = new AuthService();
 
 export const loginController = async ( req:Request, res:Response ):Promise<void> => {
     try {
-        const { userName, email } = req.body
+        res.clearCookie('access_token'); // se limpia el token, para insertar el nuevo
 
-        const response = await fetch('https://appfrg.mx/api/v1/dash/getDash', {
-            method: 'POST', // o 'GET'
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                idCliente: 3,
-            }),
-        });
-        const data = await response.json();
+        const { email, password } = req.body
+
+        const { token, user, data } = await authService.verificCredentials( email, password )
+
+        res.cookie('access_token', token,
+            getSecureCookieOptions()
+        );
+
+        logger.info(`🔑 Login exitoso. Usuario: ${user.id}`);
 
         res.status(200).json({
             status: 200,
             redirectTo: '/admin/dashboard',
             data:data,
-            dashboardData: { usuario: userName, correo: email, balanceFinancieroGlobal: '$1,500,000.00 MXN' }
+            user: user,
+            dashboardData: { balanceFinancieroGlobal: '$1,500,000.00 MXN' }
         })
+
     } catch (error: any) {
         if(error.codeError === 401){
             res.status(200).json({
@@ -44,4 +49,20 @@ export const loginController = async ( req:Request, res:Response ):Promise<void>
         } 
         });
     }
+
+}
+
+export const authMeController = async ( req:Request, res:Response ):Promise<void> =>{
+
+// Como verifyJWT ya decodificó el token y guardó los datos en req.user,
+// simplemente los enviamos de regreso al Frontend.
+
+const idPerfil = Number.parseInt(req.user.role, 10);
+
+res.status(200).json({
+status:200,
+idUsuario:req.user.id,
+nombreCompleto: req.user.nombreCompleto || 'Usuario Autenticado',
+idPerfil: idPerfil // Enviamos el idPerfil real que guardamos en el JWT
+})
 }

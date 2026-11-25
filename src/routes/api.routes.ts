@@ -1,9 +1,9 @@
 import { Router } from 'express';
 import rateLimit from 'express-rate-limit';
-import { error } from 'winston';
 import { loginSchema } from '../schemas/schemas';
 import { validateLogin } from '../middelware/validate.middelware';
-import { loginController } from '../controllers/auth.controller';
+import { authMeController, loginController } from '../controllers/auth.controller';
+import { verifyJWT } from '../middelware/auth.middelware';
 
 
 const router = Router();
@@ -27,10 +27,14 @@ const apiLimter = rateLimit({
 // =================================================================================================
 // 1. (("TEST")) - FLUJO DE AUTENTICACIÓN (LOGIN - Protegidas por Rate Limiter y Firma HMAC obligatoria) 
 // =================================================================================================
-router.post('/test',
+router.post('/login',
     apiLimter,                  // Valida que nadie alterara los montos del JSON en tránsito
     validateLogin(loginSchema), // Valida la estructura del JSON con Zod
     loginController             // Ejecuta la acción en el controlador
 )
-
+router.get('/auth/me',
+  apiLimter,
+  verifyJWT,
+  authMeController,
+)
 export default router;
