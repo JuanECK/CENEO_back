@@ -2111,3 +2111,43 @@
 [26-11-2026 05:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 200 37 - 631.287 ms[39m
 [26-11-2026 05:30 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 100010, pagina: 1 , registrosPorPagina: 15[39m
 [26-11-2026 05:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 304 - - 162.885 ms[39m
+[26-11-2026 05:31 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 05:31 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 05:34 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 4.231 ms[39m
+[26-11-2026 05:34 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.930 ms[39m
+[26-11-2026 05:34 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.761 ms[39m
+[26-11-2026 05:34 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 100010, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:34 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 304 - - 684.298 ms[39m
+[26-11-2026 05:34 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 100010, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:34 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 304 - - 170.921 ms[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.681 ms[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.400 ms[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.530 ms[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.548 ms[39m
+[26-11-2026 05:39 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:39 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 666.449 ms[39m
+[26-11-2026 05:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.537 ms[39m
+[26-11-2026 05:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.385 ms[39m
+[26-11-2026 05:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.411 ms[39m
+[26-11-2026 05:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.239 ms[39m
+[26-11-2026 05:40 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:40 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:40 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:40 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 830.621 ms[39m
+[26-11-2026 05:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 92 - 0.791 ms[39m
+[26-11-2026 05:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:41 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:41 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 158.368 ms[39m
+[26-11-2026 05:41 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:41 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.453 ms[39m
+[26-11-2026 05:41 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:41 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.250 ms[39m
+[26-11-2026 05:55 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.506 ms[39m
+[26-11-2026 05:55 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.223 ms[39m
