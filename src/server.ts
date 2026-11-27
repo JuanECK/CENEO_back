@@ -1,11 +1,16 @@
 import app from './app';
 import { logger } from './config/logger';
+import { env } from './config/env';
+import { connectDB } from './config/database'; 
 
 const startServer = async () => {
+
+   // 1. Conectar primero a SQL Server
+  await connectDB();
     
 // Ender el servidor express
-const server = app.listen( 3000, () => {
-    logger.info(`🚀 Servidor seguro corriendo en http://localhost:3000`)
+const server = app.listen( env.PORT, () => {
+    logger.info(`🚀 Servidor seguro corriendo en http://localhost:${env.PORT}`)
 } )
 
 

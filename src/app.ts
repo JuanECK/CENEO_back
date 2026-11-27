@@ -7,11 +7,13 @@ import cookieParser from 'cookie-parser';
 import { env } from './config/env'
 
 const app = express();
-const PORT = 3000;
 
 app.use(express.json());
 app.disable('x-powered-by');
-app.set('trust proxy', 1); // Indispensable para que el Rate Limiter lea la IP real del cliente
+
+if (process.env.NODE_ENV === 'production') {
+  app.set('trust proxy', 1); // Indispensable para que el Rate Limiter lea la IP real del cliente
+}
 
 // CAPAS GLOBALES DE SEGURIDAD //
 

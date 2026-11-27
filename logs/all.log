@@ -296,3 +296,1818 @@
 [24-11-2026 06:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.111 ms[39m
 [24-11-2026 06:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.139 ms[39m
 [24-11-2026 06:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.120 ms[39m
+[25-11-2026 10:12 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 10:12 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:12 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 5.046 ms[39m
+[25-11-2026 10:12 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:12 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.525 ms[39m
+[25-11-2026 10:13 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 97 - 1.879 ms[39m
+[25-11-2026 10:13 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.317 ms[39m
+[25-11-2026 10:13 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.323 ms[39m
+[25-11-2026 10:14 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:14 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.515 ms[39m
+[25-11-2026 10:14 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:14 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.301 ms[39m
+[25-11-2026 10:17 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: user_admin_01[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 379 - 464.901 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 97 - 0.592 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.608 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.367 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.532 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.392 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.349 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.307 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.317 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.235 ms[39m
+[25-11-2026 10:17 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.209 ms[39m
+[25-11-2026 10:25 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:25 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.517 ms[39m
+[25-11-2026 10:25 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 10:25 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.279 ms[39m
+[25-11-2026 10:29 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 10:38 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:11 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:11 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 5.359 ms[39m
+[25-11-2026 11:11 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:11 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.546 ms[39m
+[25-11-2026 11:13 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:13 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:13 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 4.913 ms[39m
+[25-11-2026 11:13 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:13 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.481 ms[39m
+[25-11-2026 11:13 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:16 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:16 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 413.813 ms[39m
+[25-11-2026 11:20 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:21 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 419.163 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 69 - 1.162 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.512 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.120 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.058 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.040 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.597 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.584 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.384 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.336 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.366 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.253 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.297 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.488 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.362 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.223 ms[39m
+[25-11-2026 11:21 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.235 ms[39m
+[25-11-2026 11:23 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.605 ms[39m
+[25-11-2026 11:23 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.480 ms[39m
+[25-11-2026 11:23 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 312.804 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 69 - 0.536 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.208 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.061 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.123 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.050 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.295 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.361 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.336 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.232 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.252 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.194 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.202 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.244 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.441 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.344 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.266 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.360 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.326 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.248 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.345 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.241 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.242 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.251 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.469 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.262 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.269 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.307 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.400 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.261 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.242 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.290 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.269 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.258 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.249 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.413 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.279 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.319 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.411 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.461 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.415 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.245 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.257 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.476 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.331 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.253 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.349 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.301 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.267 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.260 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.307 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.280 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.280 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.244 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.260 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.424 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.246 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.304 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.281 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.405 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[25-11-2026 11:23 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.240 ms[39m
+[25-11-2026 11:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.437 ms[39m
+[25-11-2026 11:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.249 ms[39m
+[25-11-2026 11:28 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:28 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 377.721 ms[39m
+[25-11-2026 11:29 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:30 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:30 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 343.297 ms[39m
+[25-11-2026 11:30 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:31 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:31 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: undefined[39m
+[25-11-2026 11:31 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 353.458 ms[39m
+[25-11-2026 11:32 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:34 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:35 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:35 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 4.790 ms[39m
+[25-11-2026 11:37 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:37 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 340.789 ms[39m
+[25-11-2026 11:37 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.187 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.795 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.192 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.101 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.037 ms[39m
+[25-11-2026 11:37 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.647 ms[39m
+[25-11-2026 11:37 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.502 ms[39m
+[25-11-2026 11:37 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 378.822 ms[39m
+[25-11-2026 11:37 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.583 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.212 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.059 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.125 ms[39m
+[25-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.046 ms[39m
+[25-11-2026 11:38 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.479 ms[39m
+[25-11-2026 11:38 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.309 ms[39m
+[25-11-2026 11:38 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 297.661 ms[39m
+[25-11-2026 11:38 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.836 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.100 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.075 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.029 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.030 ms[39m
+[25-11-2026 11:38 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:38 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 5.229 ms[39m
+[25-11-2026 11:38 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.515 ms[39m
+[25-11-2026 11:38 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 413.931 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 69 - 1.446 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.757 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.180 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.067 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.071 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.634 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.275 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.407 ms[39m
+[25-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.329 ms[39m
+[25-11-2026 11:40 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:41 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 5.315 ms[39m
+[25-11-2026 11:41 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.028 ms[39m
+[25-11-2026 11:41 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 342.612 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 69 - 1.076 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.672 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.098 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.144 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.969 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.061 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.685 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.564 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.469 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.600 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.503 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.466 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.626 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.447 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.491 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.380 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.482 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.339 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.355 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.352 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.418 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.462 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.431 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.407 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.446 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.517 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.471 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.379 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.373 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.404 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.383 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.384 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.973 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.654 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.348 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.541 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.729 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.566 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.643 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.154 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.550 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.389 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.371 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.528 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.466 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.361 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.425 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.401 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.397 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.351 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.304 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.299 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.469 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.459 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.375 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.335 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.399 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.332 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.332 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.350 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.488 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.375 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.350 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.352 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.329 ms[39m
+[25-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.415 ms[39m
+[25-11-2026 11:44 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:44 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 5.021 ms[39m
+[25-11-2026 11:44 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.552 ms[39m
+[25-11-2026 11:44 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 309.480 ms[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 1.046 ms[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.488 ms[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.114 ms[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.097 ms[39m
+[25-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.051 ms[39m
+[25-11-2026 11:51 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 11:52 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 5.299 ms[39m
+[25-11-2026 11:52 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.533 ms[39m
+[25-11-2026 11:52 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 399.843 ms[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 1.050 ms[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.684 ms[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.170 ms[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.095 ms[39m
+[25-11-2026 11:52 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.071 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.699 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.667 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.708 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.762 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.103 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.045 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.078 ms[39m
+[25-11-2026 11:53 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.028 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.495 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.451 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.690 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.149 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mGET /admin/targetahabientes?idCentroN=1&page=1&limit=15 404 161 - 0.103 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.035 ms[39m
+[25-11-2026 11:54 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.021 ms[39m
+[25-11-2026 11:56 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.596 ms[39m
+[25-11-2026 11:56 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.390 ms[39m
+[25-11-2026 11:56 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.495 ms[39m
+[25-11-2026 11:56 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.040 ms[39m
+[25-11-2026 11:56 AM ] [[35MHTTP[39M]: [35mPOST /admin/centroNegocios 404 160 - 0.040 ms[39m
+[25-11-2026 11:57 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.511 ms[39m
+[25-11-2026 11:57 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.304 ms[39m
+[25-11-2026 11:57 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.486 ms[39m
+[25-11-2026 12:00 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 12:00 PM ] [[35MHTTP[39M]: [35mPOST /auth/logout 404 151 - 1.440 ms[39m
+[25-11-2026 12:00 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 7.536 ms[39m
+[25-11-2026 12:00 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.079 ms[39m
+[25-11-2026 12:00 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.570 ms[39m
+[25-11-2026 12:00 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.627 ms[39m
+[25-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mPOST /auth/logout 404 151 - 0.208 ms[39m
+[25-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.820 ms[39m
+[25-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.704 ms[39m
+[25-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.977 ms[39m
+[25-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.676 ms[39m
+[25-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /auth/logout 404 150 - 0.138 ms[39m
+[25-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/logout 404 154 - 0.225 ms[39m
+[25-11-2026 12:03 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 0.642 ms[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mPOST /auth/logout 404 151 - 0.116 ms[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.846 ms[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.724 ms[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.712 ms[39m
+[25-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.613 ms[39m
+[25-11-2026 12:05 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.542 ms[39m
+[25-11-2026 12:05 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.359 ms[39m
+[25-11-2026 12:05 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 417.599 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.723 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mPOST /auth/logout 404 151 - 0.171 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.597 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.541 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.668 ms[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.596 ms[39m
+[25-11-2026 12:05 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.561 ms[39m
+[25-11-2026 12:05 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.365 ms[39m
+[25-11-2026 12:06 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.507 ms[39m
+[25-11-2026 12:06 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.270 ms[39m
+[25-11-2026 12:06 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.400 ms[39m
+[25-11-2026 12:06 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.257 ms[39m
+[25-11-2026 12:06 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 305.502 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.632 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mPOST /auth/logout 404 151 - 0.125 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.742 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.385 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.694 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.684 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/api/auth/me 404 154 - 0.146 ms[39m
+[25-11-2026 12:06 PM ] [[35MHTTP[39M]: [35mGET /api/api/auth/me 404 154 - 0.105 ms[39m
+[25-11-2026 12:07 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:07 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.348 ms[39m
+[25-11-2026 12:07 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:07 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.525 ms[39m
+[25-11-2026 12:07 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:07 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.346 ms[39m
+[25-11-2026 12:08 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 291.783 ms[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.605 ms[39m
+[25-11-2026 12:08 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 0.419 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.400 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.326 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.477 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.290 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.534 ms[39m
+[25-11-2026 12:08 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 12:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[25-11-2026 12:09 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 12:09 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 367.332 ms[39m
+[25-11-2026 12:09 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.553 ms[39m
+[25-11-2026 01:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.588 ms[39m
+[25-11-2026 01:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.359 ms[39m
+[25-11-2026 01:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.475 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.631 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.552 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.485 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.493 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.317 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.542 ms[39m
+[25-11-2026 01:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.520 ms[39m
+[25-11-2026 01:39 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[25-11-2026 01:39 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 0.343 ms[39m
+[25-11-2026 01:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.519 ms[39m
+[25-11-2026 01:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.314 ms[39m
+[25-11-2026 01:49 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.470 ms[39m
+[25-11-2026 01:49 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.253 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.426 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.522 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.409 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.354 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.434 ms[39m
+[25-11-2026 01:50 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.305 ms[39m
+[25-11-2026 01:51 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.512 ms[39m
+[25-11-2026 01:51 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 01:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.364 ms[39m
+[25-11-2026 01:55 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 01:55 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 389.126 ms[39m
+[25-11-2026 01:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 0.458 ms[39m
+[25-11-2026 02:42 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 03:30 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[25-11-2026 03:30 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 2.275 ms[39m
+[25-11-2026 03:30 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 03:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 5.421 ms[39m
+[25-11-2026 03:30 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 03:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.717 ms[39m
+[25-11-2026 04:35 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:35 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:37 PM ] [[31MERROR[39M]: [31m❌ Error crítico al conectar a SQL Server: ConnectionError: Login failed for user 'CENEO_DEMO'.[39m
+[25-11-2026 04:40 PM ] [[31MERROR[39M]: [31m❌ Error crítico al conectar a SQL Server: ConnectionError: Login failed for user 'CENEO_DEMO'.[39m
+[25-11-2026 04:41 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:41 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:42 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:42 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:43 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[25-11-2026 04:43 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 456.005 ms[39m
+[25-11-2026 04:43 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 1.383 ms[39m
+[25-11-2026 04:51 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:51 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 0.818 ms[39m
+[25-11-2026 04:52 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:52 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 0.437 ms[39m
+[25-11-2026 04:53 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:53 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 0.553 ms[39m
+[25-11-2026 04:54 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:54 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:54 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.382 ms[39m
+[25-11-2026 04:55 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:55 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:57 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:57 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:57 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:57 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 2.082 ms[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:58 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 04:58 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.438 ms[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 04:58 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 04:58 PM ] [[31MERROR[39M]: [31mError: Cannot destructure property 'email' of 'data[0]' as it is undefined.[39m
+[25-11-2026 04:58 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 92 - 1.262 ms[39m
+[25-11-2026 05:00 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:00 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:00 PM ] [[31MERROR[39M]: [31mError: Cannot destructure property 'email' of 'data[0]' as it is undefined.[39m
+[25-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 92 - 1.361 ms[39m
+[25-11-2026 05:00 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:00 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:00 PM ] [[31MERROR[39M]: [31mError: Cannot destructure property 'email' of 'data[0]' as it is undefined.[39m
+[25-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 92 - 1.362 ms[39m
+[25-11-2026 05:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.426 ms[39m
+[25-11-2026 05:02 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:02 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'email')[39m
+[25-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 77 - 1.158 ms[39m
+[25-11-2026 05:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:03 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 05:03 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.325 ms[39m
+[25-11-2026 05:04 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:04 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:04 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 05:04 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.642 ms[39m
+[25-11-2026 05:05 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:05 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:05 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:05 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:05 PM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[25-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 56 - 1.255 ms[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:06 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$BfcHQLXKoeno7GRuwLSSWeClJWBXKq9AjuNF5YD07jwQbcA6JeAA2, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS[39m
+[25-11-2026 05:06 PM ] [[31MERROR[39M]: [31mError en UserRepository.registerUser: RequestError: Procedure or function 'sp_insert_User' expects parameter '@cn', which was not supplied.[39m
+[25-11-2026 05:06 PM ] [[31MERROR[39M]: [31mError: Procedure or function 'sp_insert_User' expects parameter '@cn', which was not supplied.[39m
+[25-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 129 - 716.436 ms[39m
+[25-11-2026 05:07 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:07 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:07 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$vE5x5aYvuqF77RJaQ0DlLudWIi3v6qVcVONX9Fk71yKfpdu5hBik2, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS[39m
+[25-11-2026 05:07 PM ] [[31MERROR[39M]: [31mError en UserRepository.registerUser: RequestError: Procedure or function 'sp_insert_User' expects parameter '@nombre_cn', which was not supplied.[39m
+[25-11-2026 05:07 PM ] [[31MERROR[39M]: [31mError: Procedure or function 'sp_insert_User' expects parameter '@nombre_cn', which was not supplied.[39m
+[25-11-2026 05:07 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 136 - 711.878 ms[39m
+[25-11-2026 05:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:10 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$.YBifVnuyeGySFq0zUtugekhjTu3jGzad9s//v5EIgHXxrICSTegu, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:10 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 67 - 736.254 ms[39m
+[25-11-2026 05:12 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$z9qqXSUedsr3117XTEEQ..frEv50HwLsB/4WYCL5T7Jp33od6hI2e, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:12 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 67 - 672.192 ms[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$.NAPYBQluhJJ0JABD/wPJe/L1MugNyZ2ZieP9pozqJW3jPj0JLEQS, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:13 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 67 - 676.166 ms[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:13 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$EE/OI.nMoy8banrZb2gR.egJVrdTXFUnnCzP5FJ0bNcGKQSLAYCnG, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:13 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 67 - 711.652 ms[39m
+[25-11-2026 05:19 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:19 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:19 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:19 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:20 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$PkzN6Tp3KW8q3Ly1zTuXkOPt6LJvKUfwND15RGOs98bSyKYBKYWVW, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:20 PM ] [[31MERROR[39M]: [31mError en UserRepository.registerUser: Error: El correo ya cuenta con un registro[39m
+[25-11-2026 05:20 PM ] [[31MERROR[39M]: [31mError: El correo ya cuenta con un registro[39m
+[25-11-2026 05:20 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 103 - 689.515 ms[39m
+[25-11-2026 05:22 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:22 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:23 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:23 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$Uq28hbcobMKKzfrxwuIkfe9UVK4jHwc9T6ZphFYIiLIFzvL2iPTlm, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 125 - 675.617 ms[39m
+[25-11-2026 05:24 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:24 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:25 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:25 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:25 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$JELeHgkJX8Oa.u/4rM/JkuDQsZavwTz2tD53hS18j950avG9a2BF6, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:25 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 111 - 722.822 ms[39m
+[25-11-2026 05:29 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:29 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:31 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:31 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:31 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: sebastianromero@gmail.com  password: $2b$10$EfsDETqj3s7bpLcYkEjam.xmVXfwJpxQ2NIdY4mh83Jte12TW0HJy, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: GALLOS, cn: 100020[39m
+[25-11-2026 05:31 PM ] [[31MERROR[39M]: [31mError: El correo ya cuenta con un registro[39m
+[25-11-2026 05:31 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 103 - 673.344 ms[39m
+[25-11-2026 05:32 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:32 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:35 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: ramon_valdez@gmail.com  password: $2b$10$nVfxqEspJn/2pp/ZBc4meeA9d2YwKYacj2xMpw68Y/8hxn6nclRj2, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: EnriqueSegoviano, cn: 100020[39m
+[25-11-2026 05:35 PM ] [[31MERROR[39M]: [31mError: El Centro de Negocio ya cuenta con un registro[39m
+[25-11-2026 05:35 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 114 - 673.142 ms[39m
+[25-11-2026 05:35 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: ramon_valdez@gmail.com  password: $2b$10$1V3E/jw5G2lwvkH27xTjCOIM2MGNd6PyPXhUUtAffdWIeDjrmTyJ2, nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: EnriqueSegoviano, cn: 100030[39m
+[25-11-2026 05:35 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 91 - 198.641 ms[39m
+[25-11-2026 05:36 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: ramon_valdez@gmail.com  password: $2b$10$.WGtKp1hM.7y1eXBpm3FF.KwzqTXW2/CvDkjsFGT0Pxxc7ORTrNm., nombre_admin: JUAN CARLOS LOPEZ, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: EnriqueSegoviano, cn: 100030[39m
+[25-11-2026 05:36 PM ] [[31MERROR[39M]: [31mError: El correo ya cuenta con un registro[39m
+[25-11-2026 05:36 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 103 - 709.399 ms[39m
+[25-11-2026 05:46 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:46 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:48 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:48 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:49 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:49 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:49 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_insert_User] |email: carlos_villagran@gmail.com  password: $2b$10$0XNvehtIMgUgu53tQuakn.aOLN6yQfcFILC23qPrUs9KkpADZVZku, nombre_admin: JUAN VILLAGRAN, tarjeta_eje: 4830520000000001, clabe_eje: 646180670000000001, identificador: ONCECAPITAL, nombre_cn: EnriqueSegoviano, cn: 100040[39m
+[25-11-2026 05:49 PM ] [[35MHTTP[39M]: [35mPOST /api/newUser 200 77 - 689.276 ms[39m
+[25-11-2026 05:52 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:52 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:54 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:54 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:55 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:55 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:55 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:55 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:56 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:56 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:56 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:56 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 05:57 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 05:57 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[25-11-2026 06:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[25-11-2026 06:04 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[25-11-2026 06:04 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 2.208 ms[39m
+[25-11-2026 06:04 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 06:04 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 2.878 ms[39m
+[25-11-2026 06:04 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[25-11-2026 06:04 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.461 ms[39m
+[26-11-2026 10:28 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:28 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 10:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.749 ms[39m
+[26-11-2026 10:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 10:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.522 ms[39m
+[26-11-2026 10:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 10:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.432 ms[39m
+[26-11-2026 10:28 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 10:28 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.338 ms[39m
+[26-11-2026 10:29 AM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 10:29 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 385 - 473.573 ms[39m
+[26-11-2026 10:29 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 85 - 1.089 ms[39m
+[26-11-2026 10:31 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:31 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:35 AM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[26-11-2026 10:35 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 56 - 1.424 ms[39m
+[26-11-2026 10:37 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:37 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:37 AM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[26-11-2026 10:37 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 56 - 1.499 ms[39m
+[26-11-2026 10:38 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:38 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:38 AM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[26-11-2026 10:38 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 56 - 1.625 ms[39m
+[26-11-2026 10:39 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:39 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:39 AM ] [[31MERROR[39M]: [31mError: data and salt arguments required[39m
+[26-11-2026 10:39 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 56 - 1.540 ms[39m
+[26-11-2026 10:40 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:40 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:40 AM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 're_password')[39m
+[26-11-2026 10:40 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 83 - 1.077 ms[39m
+[26-11-2026 10:40 AM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 're_password')[39m
+[26-11-2026 10:40 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 83 - 0.859 ms[39m
+[26-11-2026 10:41 AM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 're_password')[39m
+[26-11-2026 10:41 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 83 - 0.616 ms[39m
+[26-11-2026 10:43 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:43 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:43 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:43 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:43 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_password] |password: $2b$10$dHjltn2Ihv0/l8xDs2JEDORXjuZCByz77HQOb8/7NG4f.ZnGlzBfi, password: 4830520000000001,  cn: 100020[39m
+[26-11-2026 10:43 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 72 - 723.391 ms[39m
+[26-11-2026 10:44 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:44 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:46 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:46 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:48 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:48 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:50 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:50 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:57 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[p_create_customer] |clabe_cliente: 646180670010100099, nombre_cliente: EUROPA  X1 X2,  cn: 100003[39m
+[26-11-2026 10:57 AM ] [[31MERROR[39M]: [31mError en UserRepository.registerUser: RequestError: Could not find stored procedure 'dbo.p_create_customer'.[39m
+[26-11-2026 10:57 AM ] [[31MERROR[39M]: [31mError: Could not find stored procedure 'dbo.p_create_customer'.[39m
+[26-11-2026 10:57 AM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 98 - 641.338 ms[39m
+[26-11-2026 10:59 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 10:59 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 10:59 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_create_customer] |clabe_cliente: 646180670010100099, nombre_cliente: EUROPA  X1 X2,  cn: 100003[39m
+[26-11-2026 10:59 AM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 72 - 647.812 ms[39m
+[26-11-2026 11:02 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_create_customer] |clabe_cliente: 646180670010100099, nombre_cliente: EUROPA  X1 X2,  cn: 100003[39m
+[26-11-2026 11:02 AM ] [[31MERROR[39M]: [31mError: La tarjeta ya cuenta con un registro[39m
+[26-11-2026 11:02 AM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 96 - 681.370 ms[39m
+[26-11-2026 11:02 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_create_customer] |clabe_cliente: 646180670010100099, nombre_cliente: EUROPA  X1 X2,  cn: 100004[39m
+[26-11-2026 11:02 AM ] [[31MERROR[39M]: [31mError: EL centro de negocio no existe[39m
+[26-11-2026 11:02 AM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 90 - 669.208 ms[39m
+[26-11-2026 11:02 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_password] |password: $2b$10$qYdg6OiPDJWFJ2OJR5OO4.G46ZDW9ZnsknEkRJBIHGjzixpEzSr/e, password: 4830520000000001,  cn: 100020[39m
+[26-11-2026 11:02 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 72 - 211.779 ms[39m
+[26-11-2026 11:05 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_password] |password: $2b$10$L3yWi/9lLmQzn63c52uFAOeDoept.keOdhOYu2CL5UMsK6ky67Sgu, password: 4830520000000001,  cn: 100020[39m
+[26-11-2026 11:05 AM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 11:05 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 81 - 717.213 ms[39m
+[26-11-2026 11:06 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_password] |password: $2b$10$0iD8TeGRDAeyVyzb3mKX.eI4nt.hKcWXg.hhreX9yL9.FO3CL2NkG, password: 4830520000000001,  cn: 100023[39m
+[26-11-2026 11:06 AM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 11:06 AM ] [[35MHTTP[39M]: [35mPOST /api/resetPassword 200 81 - 670.562 ms[39m
+[26-11-2026 11:09 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:09 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:09 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:09 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:12 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:12 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:12 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:12 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:16 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_delete_customer] | nombre_cliente: 4830520000000001,  cn: 100020[39m
+[26-11-2026 11:16 AM ] [[31MERROR[39M]: [31mError: Tarjeta no registrada[39m
+[26-11-2026 11:16 AM ] [[35MHTTP[39M]: [35mPOST /api/deleteCustomer 200 81 - 628.805 ms[39m
+[26-11-2026 11:17 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_delete_customer] | nombre_cliente: 4830520000000001,  cn: 100020[39m
+[26-11-2026 11:17 AM ] [[35MHTTP[39M]: [35mPOST /api/deleteCustomer 200 80 - 681.533 ms[39m
+[26-11-2026 11:29 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:29 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:29 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:29 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:33 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:33 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:33 AM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 11:33 AM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 2.165 ms[39m
+[26-11-2026 11:33 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:33 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 2.778 ms[39m
+[26-11-2026 11:33 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:33 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.636 ms[39m
+[26-11-2026 11:36 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:36 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:36 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 11:36 AM ] [[31MERROR[39M]: [31mError en loginController: Error: data and hash arguments required[39m
+[26-11-2026 11:36 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 641.639 ms[39m
+[26-11-2026 11:37 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:37 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:37 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 11:37 AM ] [[31MERROR[39M]: [31mError en loginController: Error: data and hash arguments required[39m
+[26-11-2026 11:37 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 683.643 ms[39m
+[26-11-2026 11:38 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: sebastianromero@gmail.com'[39m
+[26-11-2026 11:38 AM ] [[31MERROR[39M]: [31mError en loginController: Error: data and hash arguments required[39m
+[26-11-2026 11:38 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 663.301 ms[39m
+[26-11-2026 11:40 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: sebastianromero@gmail.com'[39m
+[26-11-2026 11:40 AM ] [[31MERROR[39M]: [31mError en loginController: Error: data and hash arguments required[39m
+[26-11-2026 11:40 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 631.069 ms[39m
+[26-11-2026 11:41 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:41 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:41 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: sebastianromero@gmail.com'[39m
+[26-11-2026 11:41 AM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 11:41 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 637.084 ms[39m
+[26-11-2026 11:44 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:44 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:44 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.535 ms[39m
+[26-11-2026 11:44 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:44 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.446 ms[39m
+[26-11-2026 11:45 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: sebastianromero@gmail.com'[39m
+[26-11-2026 11:45 AM ] [[31MERROR[39M]: [31mError en loginController: TypeError: Cannot read properties of undefined (reading 'passwordHash')[39m
+[26-11-2026 11:45 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 678.839 ms[39m
+[26-11-2026 11:52 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:52 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:57 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:57 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:57 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:57 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:57 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: sebastianromero@gmail.com'[39m
+[26-11-2026 11:57 AM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 11:57 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 648.642 ms[39m
+[26-11-2026 11:58 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:58 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.367 ms[39m
+[26-11-2026 11:58 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:58 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.537 ms[39m
+[26-11-2026 11:58 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 11:58 AM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 11:58 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 669.356 ms[39m
+[26-11-2026 11:59 AM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 11:59 AM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 11:59 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:59 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.737 ms[39m
+[26-11-2026 11:59 AM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 11:59 AM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.646 ms[39m
+[26-11-2026 11:59 AM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 11:59 AM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 11:59 AM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 631.398 ms[39m
+[26-11-2026 12:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:01 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.964 ms[39m
+[26-11-2026 12:01 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.592 ms[39m
+[26-11-2026 12:01 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:01 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:01 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 632.084 ms[39m
+[26-11-2026 12:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.789 ms[39m
+[26-11-2026 12:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.563 ms[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:02 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 634.721 ms[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.813 ms[39m
+[26-11-2026 12:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.518 ms[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:02 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:02 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 673.580 ms[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:02 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:03 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.720 ms[39m
+[26-11-2026 12:03 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.874 ms[39m
+[26-11-2026 12:03 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:03 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:03 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 686.113 ms[39m
+[26-11-2026 12:04 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:04 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:04 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:04 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.182 ms[39m
+[26-11-2026 12:04 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:04 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.504 ms[39m
+[26-11-2026 12:04 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:04 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:04 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 625.774 ms[39m
+[26-11-2026 12:09 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:09 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:10 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.050 ms[39m
+[26-11-2026 12:10 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.646 ms[39m
+[26-11-2026 12:10 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:10 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 12:10 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 717.465 ms[39m
+[26-11-2026 12:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.835 ms[39m
+[26-11-2026 12:12 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:12 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:13 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:13 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:14 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 12:14 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 62 - 1.481 ms[39m
+[26-11-2026 12:14 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:14 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 3.285 ms[39m
+[26-11-2026 12:14 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:14 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.668 ms[39m
+[26-11-2026 12:21 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:21 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:23 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:23 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:23 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:23 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:24 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:24 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:25 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:25 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:27 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:27 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:30 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:30 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:31 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:31 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:34 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:34 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:34 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:34 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.893 ms[39m
+[26-11-2026 12:43 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:43 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:43 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:43 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:44 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:44 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.695 ms[39m
+[26-11-2026 12:45 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:45 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:45 PM ] [[31MERROR[39M]: [31mFirma HMAC inválida. IP: ::1[39m
+[26-11-2026 12:45 PM ] [[35MHTTP[39M]: [35mPOST /api/login 403 53 - 2.470 ms[39m
+[26-11-2026 12:47 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:47 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.900 ms[39m
+[26-11-2026 12:47 PM ] [[31MERROR[39M]: [31mFirma HMAC inválida. IP: ::1[39m
+[26-11-2026 12:47 PM ] [[35MHTTP[39M]: [35mPOST /api/login 403 53 - 0.777 ms[39m
+[26-11-2026 12:48 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.496 ms[39m
+[26-11-2026 12:48 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:48 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: undefined[39m
+[26-11-2026 12:48 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 12:48 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 894.511 ms[39m
+[26-11-2026 12:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.125 ms[39m
+[26-11-2026 12:49 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 0, active: 0[39m
+[26-11-2026 12:49 PM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 81 - 677.152 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.867 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.644 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.830 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.795 ms[39m
+[26-11-2026 12:49 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 0, active: 0[39m
+[26-11-2026 12:49 PM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 81 - 170.554 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.715 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.560 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.695 ms[39m
+[26-11-2026 12:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.577 ms[39m
+[26-11-2026 12:51 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:51 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:51 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 2.864 ms[39m
+[26-11-2026 12:51 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.547 ms[39m
+[26-11-2026 12:52 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:52 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 12:52 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 12:52 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 896.056 ms[39m
+[26-11-2026 12:52 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.715 ms[39m
+[26-11-2026 12:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.659 ms[39m
+[26-11-2026 12:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.374 ms[39m
+[26-11-2026 12:55 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:55 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:55 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 707.668 ms[39m
+[26-11-2026 12:55 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.438 ms[39m
+[26-11-2026 12:55 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 12:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.266 ms[39m
+[26-11-2026 12:58 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:58 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:58 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 12:58 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 12:58 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 12:58 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 12:58 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 672.913 ms[39m
+[26-11-2026 01:01 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:01 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:02 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:02 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.634 ms[39m
+[26-11-2026 01:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.467 ms[39m
+[26-11-2026 01:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:02 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 01:02 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 636.480 ms[39m
+[26-11-2026 01:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:03 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.701 ms[39m
+[26-11-2026 01:03 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:03 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.499 ms[39m
+[26-11-2026 01:03 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:03 PM ] [[31MERROR[39M]: [31mError en loginController: Error: No existe usuario asociado a este correo[39m
+[26-11-2026 01:03 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 92 - 681.819 ms[39m
+[26-11-2026 01:09 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:09 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:11 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:11 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:11 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:11 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.572 ms[39m
+[26-11-2026 01:11 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:11 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.468 ms[39m
+[26-11-2026 01:12 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:12 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:12 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 675.102 ms[39m
+[26-11-2026 01:13 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:13 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:13 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:13 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:13 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 684.053 ms[39m
+[26-11-2026 01:14 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:14 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:14 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 626.897 ms[39m
+[26-11-2026 01:16 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:16 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:16 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:16 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:16 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 632.584 ms[39m
+[26-11-2026 01:18 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:18 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:19 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:19 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:19 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:19 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.171 ms[39m
+[26-11-2026 01:19 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:19 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.572 ms[39m
+[26-11-2026 01:19 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:19 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:19 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 681.080 ms[39m
+[26-11-2026 01:20 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:20 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:20 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:20 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.812 ms[39m
+[26-11-2026 01:20 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:20 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.693 ms[39m
+[26-11-2026 01:20 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:20 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Sesión activa en otro dispotivo[39m
+[26-11-2026 01:20 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 629.844 ms[39m
+[26-11-2026 01:40 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:40 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.861 ms[39m
+[26-11-2026 01:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.494 ms[39m
+[26-11-2026 01:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:41 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 640.448 ms[39m
+[26-11-2026 01:42 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 01:42 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 01:42 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:42 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 2.699 ms[39m
+[26-11-2026 01:42 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:42 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.634 ms[39m
+[26-11-2026 01:42 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:42 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 681.591 ms[39m
+[26-11-2026 01:43 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:43 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.478 ms[39m
+[26-11-2026 01:43 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:43 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 684.267 ms[39m
+[26-11-2026 01:45 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:45 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.425 ms[39m
+[26-11-2026 01:45 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:45 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 672.828 ms[39m
+[26-11-2026 01:46 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:46 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.411 ms[39m
+[26-11-2026 01:46 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:46 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 625.718 ms[39m
+[26-11-2026 01:47 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:47 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.475 ms[39m
+[26-11-2026 01:47 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 01:47 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 155.877 ms[39m
+[26-11-2026 01:47 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 01:47 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.389 ms[39m
+[26-11-2026 01:50 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 01:50 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Usuario no encontrado o inactivo[39m
+[26-11-2026 01:50 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 671.151 ms[39m
+[26-11-2026 03:10 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 03:10 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Usuario no encontrado o inactivo[39m
+[26-11-2026 03:10 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 672.191 ms[39m
+[26-11-2026 03:12 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 03:12 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 03:12 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 03:12 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Usuario no encontrado o inactivo[39m
+[26-11-2026 03:12 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 685.836 ms[39m
+[26-11-2026 03:13 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:13 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.896 ms[39m
+[26-11-2026 03:13 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 03:13 PM ] [[31MERROR[39M]: [31mError en loginController: Error: Usuario no encontrado o inactivo[39m
+[26-11-2026 03:13 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 120 - 663.099 ms[39m
+[26-11-2026 03:18 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 03:18 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 03:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 03:18 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 672.636 ms[39m
+[26-11-2026 03:22 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:22 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.968 ms[39m
+[26-11-2026 03:22 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.com'[39m
+[26-11-2026 03:22 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 661.314 ms[39m
+[26-11-2026 03:22 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 03:22 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 03:22 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:22 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 633.895 ms[39m
+[26-11-2026 03:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 0, active: 0[39m
+[26-11-2026 03:23 PM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 03:23 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 81 - 680.731 ms[39m
+[26-11-2026 03:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.168 ms[39m
+[26-11-2026 03:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.661 ms[39m
+[26-11-2026 03:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.811 ms[39m
+[26-11-2026 03:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.637 ms[39m
+[26-11-2026 03:25 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 03:25 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 03:26 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 03:26 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 03:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 0, active: 0[39m
+[26-11-2026 03:26 PM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 03:26 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 81 - 633.921 ms[39m
+[26-11-2026 03:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.759 ms[39m
+[26-11-2026 03:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.027 ms[39m
+[26-11-2026 03:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.845 ms[39m
+[26-11-2026 03:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.800 ms[39m
+[26-11-2026 03:27 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.778 ms[39m
+[26-11-2026 03:27 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.371 ms[39m
+[26-11-2026 03:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:27 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 84 - 664.961 ms[39m
+[26-11-2026 03:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 03:28 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 822.121 ms[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.962 ms[39m
+[26-11-2026 03:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 0, active: 0[39m
+[26-11-2026 03:28 PM ] [[31MERROR[39M]: [31mError: Usuario no encontrado[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 81 - 677.792 ms[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.942 ms[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.664 ms[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.796 ms[39m
+[26-11-2026 03:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.680 ms[39m
+[26-11-2026 03:31 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:31 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.502 ms[39m
+[26-11-2026 03:34 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 03:34 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 03:34 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 671.802 ms[39m
+[26-11-2026 03:34 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:34 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.418 ms[39m
+[26-11-2026 03:34 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:34 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.355 ms[39m
+[26-11-2026 03:35 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:35 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 03:35 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 03:35 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 829.587 ms[39m
+[26-11-2026 03:35 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.561 ms[39m
+[26-11-2026 03:35 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:35 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.549 ms[39m
+[26-11-2026 03:36 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 03:36 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 03:36 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 678.892 ms[39m
+[26-11-2026 03:36 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:36 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.451 ms[39m
+[26-11-2026 03:36 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:36 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.320 ms[39m
+[26-11-2026 03:36 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:36 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 03:36 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 03:36 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 378.238 ms[39m
+[26-11-2026 03:36 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.708 ms[39m
+[26-11-2026 03:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.575 ms[39m
+[26-11-2026 03:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.360 ms[39m
+[26-11-2026 03:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.518 ms[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.540 ms[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.386 ms[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.522 ms[39m
+[26-11-2026 03:40 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 03:40 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 649.675 ms[39m
+[26-11-2026 03:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.921 ms[39m
+[26-11-2026 03:40 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.061 ms[39m
+[26-11-2026 03:40 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:40 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 03:40 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 358.789 ms[39m
+[26-11-2026 03:40 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.571 ms[39m
+[26-11-2026 03:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.604 ms[39m
+[26-11-2026 03:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.578 ms[39m
+[26-11-2026 03:49 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.483 ms[39m
+[26-11-2026 03:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.522 ms[39m
+[26-11-2026 03:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.476 ms[39m
+[26-11-2026 03:51 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.668 ms[39m
+[26-11-2026 03:53 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.569 ms[39m
+[26-11-2026 03:53 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.407 ms[39m
+[26-11-2026 03:53 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.562 ms[39m
+[26-11-2026 03:54 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 03:54 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 03:54 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 625.940 ms[39m
+[26-11-2026 03:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.510 ms[39m
+[26-11-2026 03:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.364 ms[39m
+[26-11-2026 03:54 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 03:54 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 03:54 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 03:54 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 885.957 ms[39m
+[26-11-2026 03:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.687 ms[39m
+[26-11-2026 03:55 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 03:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.560 ms[39m
+[26-11-2026 03:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.688 ms[39m
+[26-11-2026 03:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.610 ms[39m
+[26-11-2026 03:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.489 ms[39m
+[26-11-2026 03:55 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.468 ms[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:03 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:07 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:07 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:07 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:07 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:08 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:08 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:08 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:08 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:10 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:10 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.790 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.818 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.710 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.545 ms[39m
+[26-11-2026 04:10 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 200 76 - 0.647 ms[39m
+[26-11-2026 04:10 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 0.346 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.073 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.682 ms[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.572 ms[39m
+[26-11-2026 04:10 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 0.462 ms[39m
+[26-11-2026 04:10 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:10 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 0.262 ms[39m
+[26-11-2026 04:11 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:11 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:12 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 4.235 ms[39m
+[26-11-2026 04:12 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.683 ms[39m
+[26-11-2026 04:12 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.625 ms[39m
+[26-11-2026 04:12 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:12 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 0.515 ms[39m
+[26-11-2026 04:12 PM ] [[31MERROR[39M]: [31mError: Cannot read properties of undefined (reading 'data')[39m
+[26-11-2026 04:12 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 0.538 ms[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 4.433 ms[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.785 ms[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 1.035 ms[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.628 ms[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:16 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 200 114 - 688.652 ms[39m
+[26-11-2026 04:16 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:16 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:16 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 169.500 ms[39m
+[26-11-2026 04:22 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.619 ms[39m
+[26-11-2026 04:22 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.380 ms[39m
+[26-11-2026 04:22 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.602 ms[39m
+[26-11-2026 04:22 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:22 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:22 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 662.090 ms[39m
+[26-11-2026 04:22 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:22 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:22 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.698 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.601 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.622 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.579 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.479 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 167.772 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 166.250 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.489 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.416 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.471 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 166.050 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.916 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.611 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.539 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.614 ms[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.524 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.844 ms[39m
+[26-11-2026 04:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 166.433 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.525 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.330 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.479 ms[39m
+[26-11-2026 04:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 704.759 ms[39m
+[26-11-2026 04:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 187.919 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.519 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.357 ms[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.438 ms[39m
+[26-11-2026 04:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 169.450 ms[39m
+[26-11-2026 04:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 168.521 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.560 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.339 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.506 ms[39m
+[26-11-2026 04:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 624.271 ms[39m
+[26-11-2026 04:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 156.551 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.487 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.382 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.544 ms[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.687 ms[39m
+[26-11-2026 04:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 157.076 ms[39m
+[26-11-2026 04:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 155.939 ms[39m
+[26-11-2026 04:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.475 ms[39m
+[26-11-2026 04:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.278 ms[39m
+[26-11-2026 04:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.515 ms[39m
+[26-11-2026 04:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:28 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:28 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 621.209 ms[39m
+[26-11-2026 04:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:28 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:28 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 156.075 ms[39m
+[26-11-2026 04:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.730 ms[39m
+[26-11-2026 04:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.517 ms[39m
+[26-11-2026 04:30 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.442 ms[39m
+[26-11-2026 04:30 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:30 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 629.182 ms[39m
+[26-11-2026 04:30 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:30 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 161.837 ms[39m
+[26-11-2026 04:33 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_create_customer] |clabe_cliente: 646180670010100099, tarjeta_cliente: 4830520060126492, nombre_cliente: EUROPA  X1 X2, cn: 1[39m
+[26-11-2026 04:33 PM ] [[31MERROR[39M]: [31mError: EL centro de negocio no existe[39m
+[26-11-2026 04:33 PM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 90 - 673.870 ms[39m
+[26-11-2026 04:37 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_create_customer] |clabe_cliente: 646180670010100099, tarjeta_cliente: 4830520060126492, nombre_cliente: EUROPA  X1 X2, cn: 100010[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mPOST /api/createCustomer 200 72 - 628.427 ms[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.499 ms[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.322 ms[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.567 ms[39m
+[26-11-2026 04:37 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:37 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 156.745 ms[39m
+[26-11-2026 04:37 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:37 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:37 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 157.316 ms[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 164.785 ms[39m
+[26-11-2026 04:38 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.479 ms[39m
+[26-11-2026 04:38 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.310 ms[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 365.061 ms[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.641 ms[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:38 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 157.656 ms[39m
+[26-11-2026 04:38 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:38 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:38 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 158.166 ms[39m
+[26-11-2026 04:39 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 04:39 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 04:39 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 639.157 ms[39m
+[26-11-2026 04:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.484 ms[39m
+[26-11-2026 04:39 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:39 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.306 ms[39m
+[26-11-2026 04:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 04:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 04:41 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 04:41 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 211 - 827.365 ms[39m
+[26-11-2026 04:41 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.617 ms[39m
+[26-11-2026 04:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:41 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:41 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 155.354 ms[39m
+[26-11-2026 04:41 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 04:41 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 04:41 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 155.676 ms[39m
+[26-11-2026 04:47 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:47 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:47 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:47 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:48 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.127 ms[39m
+[26-11-2026 04:48 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 04:48 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 650.041 ms[39m
+[26-11-2026 04:48 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.811 ms[39m
+[26-11-2026 04:48 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.466 ms[39m
+[26-11-2026 04:48 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 04:48 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 04:48 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 100010[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 216 - 358.525 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 79 - 1.754 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.908 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.752 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.598 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.522 ms[39m
+[26-11-2026 04:48 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.654 ms[39m
+[26-11-2026 04:50 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:50 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:51 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 04:51 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 3.578 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.653 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.536 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.423 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.412 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.343 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.366 ms[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.327 ms[39m
+[26-11-2026 04:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.770 ms[39m
+[26-11-2026 04:54 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:54 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.521 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.555 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.413 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.504 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.405 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.555 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.392 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.322 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.325 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.408 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.346 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.321 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.350 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.266 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.347 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.346 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.402 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.342 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.391 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.408 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.369 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.339 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.356 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.397 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.369 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.333 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.298 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.285 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.339 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.294 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.366 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.355 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.399 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.318 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.300 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.321 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.277 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.300 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.262 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.247 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.296 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.283 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.341 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.308 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.294 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.335 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.299 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.365 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.295 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.288 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.255 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.385 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.341 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.277 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.337 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.297 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.293 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.328 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.287 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.527 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.313 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.291 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.306 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.295 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.240 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.233 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.298 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.301 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.299 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.289 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.310 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.272 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.273 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.306 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.279 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.264 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.317 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.274 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.561 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.608 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.559 ms[39m
+[26-11-2026 04:56 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.374 ms[39m
+[26-11-2026 04:56 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.296 ms[39m
+[26-11-2026 04:56 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.558 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.549 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.413 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.733 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.457 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.573 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.324 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.415 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.310 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.455 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.452 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.507 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.414 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.459 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.409 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.381 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.579 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.367 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.356 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.345 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.362 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.585 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.369 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.395 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.352 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.395 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.357 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.395 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.391 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.372 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.392 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.365 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.419 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.357 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.361 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.412 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.470 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.387 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.402 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.465 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.476 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.401 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.354 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.383 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.368 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.479 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.427 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.339 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.367 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.334 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.423 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.364 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.318 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.321 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.307 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.367 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.446 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.332 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.354 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.421 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.411 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.389 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.387 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.318 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.290 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.318 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.351 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.285 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.294 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.327 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.316 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.378 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.321 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.384 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.485 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.342 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.303 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.327 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.316 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.543 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.346 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.260 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.322 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.311 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.328 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.281 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.317 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.328 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.281 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.325 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.321 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.308 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.306 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.315 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.285 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.279 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.330 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.284 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.288 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.400 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.334 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.289 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.282 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.308 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.348 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.133 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.136 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.156 ms[39m
+[26-11-2026 04:56 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.153 ms[39m
+[26-11-2026 04:57 PM ] [[35MHTTP[39M]: [35mPOST /api/login 429 68 - 0.281 ms[39m
+[26-11-2026 04:59 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.241 ms[39m
+[26-11-2026 04:59 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 429 68 - 0.178 ms[39m
+[26-11-2026 04:59 PM ] [[35MHTTP[39M]: [35mPOST /api/login 429 68 - 0.190 ms[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 873.533 ms[39m
+[26-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.989 ms[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:00 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 159.137 ms[39m
+[26-11-2026 05:00 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:00 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:00 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 158.578 ms[39m
+[26-11-2026 05:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.658 ms[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.957 ms[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.720 ms[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.775 ms[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.885 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 669.235 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 202.151 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 169.924 ms[39m
+[26-11-2026 05:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.531 ms[39m
+[26-11-2026 05:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.457 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 378.446 ms[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.042 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.162 ms[39m
+[26-11-2026 05:02 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:02 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 166.083 ms[39m
+[26-11-2026 05:02 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:02 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.565 ms[39m
+[26-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.694 ms[39m
+[26-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.595 ms[39m
+[26-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.562 ms[39m
+[26-11-2026 05:05 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:05 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 663.865 ms[39m
+[26-11-2026 05:05 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:05 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:05 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 167.165 ms[39m
+[26-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.570 ms[39m
+[26-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.331 ms[39m
+[26-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.521 ms[39m
+[26-11-2026 05:06 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:06 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 617.801 ms[39m
+[26-11-2026 05:06 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:06 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:06 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 154.949 ms[39m
+[26-11-2026 05:07 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:07 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.449 ms[39m
+[26-11-2026 05:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.503 ms[39m
+[26-11-2026 05:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.330 ms[39m
+[26-11-2026 05:08 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.530 ms[39m
+[26-11-2026 05:08 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:08 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:08 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 672.781 ms[39m
+[26-11-2026 05:08 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:08 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:08 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 173.707 ms[39m
+[26-11-2026 05:10 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:10 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:10 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 725.113 ms[39m
+[26-11-2026 05:10 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.585 ms[39m
+[26-11-2026 05:10 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:10 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.329 ms[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:11 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 923.478 ms[39m
+[26-11-2026 05:11 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 2.021 ms[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:11 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:11 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 169.200 ms[39m
+[26-11-2026 05:11 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:11 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:11 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 166.529 ms[39m
+[26-11-2026 05:14 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:14 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:14 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 665.159 ms[39m
+[26-11-2026 05:14 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:14 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.778 ms[39m
+[26-11-2026 05:14 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:14 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.391 ms[39m
+[26-11-2026 05:15 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.461 ms[39m
+[26-11-2026 05:15 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.602 ms[39m
+[26-11-2026 05:15 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:15 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:15 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 835.967 ms[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.957 ms[39m
+[26-11-2026 05:15 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:15 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 156.460 ms[39m
+[26-11-2026 05:15 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:15 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:15 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 156.182 ms[39m
+[26-11-2026 05:16 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:16 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.419 ms[39m
+[26-11-2026 05:16 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:16 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.264 ms[39m
+[26-11-2026 05:16 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:16 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 662.095 ms[39m
+[26-11-2026 05:16 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:16 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:16 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.957 ms[39m
+[26-11-2026 05:17 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:17 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.386 ms[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 671.820 ms[39m
+[26-11-2026 05:18 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 0.501 ms[39m
+[26-11-2026 05:18 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.381 ms[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 379.099 ms[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 0.707 ms[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:18 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 167.963 ms[39m
+[26-11-2026 05:18 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:18 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:18 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.799 ms[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 731.383 ms[39m
+[26-11-2026 05:23 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 2.220 ms[39m
+[26-11-2026 05:23 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.714 ms[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 381.244 ms[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 74 - 1.668 ms[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 172.123 ms[39m
+[26-11-2026 05:23 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:23 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:23 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 170.933 ms[39m
+[26-11-2026 05:25 PM ] [[32MINFO[39M]: [32m💾 Conexión segura a SQL Server establecida con éxito.[39m
+[26-11-2026 05:25 PM ] [[32MINFO[39M]: [32m🚀 Servidor seguro corriendo en http://localhost:3000[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 0[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32mSesión cerrada y cookie eliminada de forma segura.[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mPOST /api/auth/logout 200 66 - 652.224 ms[39m
+[26-11-2026 05:26 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 106 - 2.474 ms[39m
+[26-11-2026 05:26 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.686 ms[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_authenticate_user] |email: j.soto@oncecapital.mx'[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_update_sesion] |idUsuario: 1, active: 1[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m🔑 Login exitoso. Usuario: 1[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mPOST /api/login 200 229 - 881.190 ms[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 200 92 - 1.622 ms[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 168.311 ms[39m
+[26-11-2026 05:26 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:26 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:26 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 165.739 ms[39m
+[26-11-2026 05:27 PM ] [[33MWARNING[39M]: [33mIntento de acceso denegado por falta de cookie de sesión. IP: ::1[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.465 ms[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.676 ms[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.494 ms[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.600 ms[39m
+[26-11-2026 05:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 687.481 ms[39m
+[26-11-2026 05:27 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:27 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:27 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 173.032 ms[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.564 ms[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.466 ms[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.735 ms[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.489 ms[39m
+[26-11-2026 05:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:28 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 618.527 ms[39m
+[26-11-2026 05:28 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 1, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:28 PM ] [[31MERROR[39M]: [31mError: No se encontraron tarjetas para este centro de negocio[39m
+[26-11-2026 05:28 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=1&page=1&limit=15 304 - - 152.954 ms[39m
+[26-11-2026 05:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.827 ms[39m
+[26-11-2026 05:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.460 ms[39m
+[26-11-2026 05:29 PM ] [[35MHTTP[39M]: [35mGET /api/auth/me 304 - - 0.524 ms[39m
+[26-11-2026 05:29 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 100010, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 200 37 - 631.287 ms[39m
+[26-11-2026 05:30 PM ] [[32MINFO[39M]: [32m[SQL SERVER] Ejecutando SP: [dbo].[sp_get_cards_cn] | idCentroNegocio: 100010, pagina: 1 , registrosPorPagina: 15[39m
+[26-11-2026 05:30 PM ] [[35MHTTP[39M]: [35mGET /api/getCards?idCentroN=100010&page=1&limit=15 304 - - 162.885 ms[39m

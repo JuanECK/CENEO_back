@@ -22,6 +22,13 @@ const envSchema = z.object({
     // 🔄 NUEVA VARIABLE: Dominio base en producción (ej: '.appfrg.mx')
     // En desarrollo puede ser un string vacío o 'localhost'
     COOKIE_DOMAIN: z.string().default(''), 
+
+      // SQL Server
+    DB_USER: z.string({ error: 'El usuario de la BD es obligatorio.' }),
+    DB_PASSWORD: z.string({ error: 'La contraseña de la BD es obligatoria.' }),
+    DB_SERVER: z.string({ error: 'El servidor/IP de la BD es obligatorio.' }),
+    DB_NAME: z.string({ error: 'El nombre de la BD es obligatorio.' }),
+    DB_PORT: z.string().transform((val) => parseInt(val, 10)).default(1433),
 })
 
 // intenta parsear y validar process.env
